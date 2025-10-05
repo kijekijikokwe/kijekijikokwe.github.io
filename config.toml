@@ -1,0 +1,32 @@
+baseURL = 'https://kijekijikokwe.github.io/'
+languageCode = 'en'
+title = 'Charlotte Hunter'
+author = 'Charlotte Hunter'
+theme = "hugo-paper-main"
+
+[deployment]
+  order = [".jpg", ".png", ".webp", ".gif", ".svg"]
+
+[params]
+  color = 'wheat'
+  twitter = 'kijekijikokwe'
+  github = 'kijekijikokwe'
+  avatar = 'me@charlottehunter.ca'
+  name = 'Char'
+  bio = 'Métis Two-Spirit Social Justice Warrior'
+  description = "Professional website of Charlotte Hunter"
+  homeSubtitle = 'Métis Two-Spirit Social Justice Warrior'
+  customCSS = ["css/custom.css"]
+
+[menu]
+  [[menu.main]]
+    identifier = "cv"
+    name = "Resume & CV"
+    url = "/cv/"
+    weight = 1
+    
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 2

@@ -1,0 +1,10 @@
+.homepage-section {
+  margin-bottom: 3rem;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid #eee;
+}
+
+.homepage-section:last-child {
+  border-bottom: none;
+  margin-bottom: 0;
+}
