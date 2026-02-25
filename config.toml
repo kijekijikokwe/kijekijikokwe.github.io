@@ -2,8 +2,6 @@ baseURL = 'https://www.charlottehunter.ca/'
 languageCode = 'en'
 title = 'Charlotte Hunter'
 author = 'Charlotte Hunter'
-[Author]
-  name = "Charlotte Hunter"
 theme = "hugo-paper-main"
 
 [deployment]
