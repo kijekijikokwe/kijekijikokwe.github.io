@@ -1,6 +1,6 @@
 ---
 title: "Guanfacine: A Gentle Bedtime Ally for Those Sensitive to Stimulants"
-date: 2026-02-25T16:55:59-04:00
+date: 2026-02-18T16:55:59-04:00
 draft: false
 tags: [ADHD, autism, chronic pain, guanfacine, Concerta, sleep, PDA, neurodiversity]  
 summary: "How a mid-range dose of guanfacine helped me regulate emotional reactivity and improve sleep without relying on high-dose stimulants."  

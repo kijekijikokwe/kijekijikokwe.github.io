@@ -1,6 +1,6 @@
 ---
 title: "Current Work"
-date: 2027-09-30T16:55:59-04:00
+date: 2026-02-19T16:55:59-04:00
 draft: false
 ---
 
