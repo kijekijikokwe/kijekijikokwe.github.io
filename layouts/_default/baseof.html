@@ -1,9 +1,0 @@
-{{- define "baseof" -}}
-  {{- partial "head.html" . -}}
-  <body class="layout-post antialiased bg-white text-black/[86%] dark:bg-black dark:text-white">
-    {{- partial "header.html" . -}}
-    <main>{{ block "main" . }}{{ end }}</main>
-    {{- block "extra-footer" . }}{{ end }}
-    {{- partial "footer.html" . -}}
-  </body>
-{{- end -}}
