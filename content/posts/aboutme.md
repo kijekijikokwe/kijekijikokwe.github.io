@@ -2,6 +2,7 @@
 title: "About Char"
 date: 2026-02-20T16:55:59-04:00
 draft: false
+comments: false
 ---
 
 A Dynamic Advocate for Inclusivity, Equity, and Intersectional Rights ...

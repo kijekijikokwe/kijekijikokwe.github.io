@@ -18,6 +18,19 @@ theme = "hugo-paper-main"
   homeSubtitle = 'Métis Two-Spirit Social Justice Warrior'
   customCSS = ["css/custom.css"]
 
+  [params.giscus]
+    repo = "kijekijikokwe/kijekijikokwe.github.io"
+    repoId = "R_kgDOP8wdYA"
+    category = "General"
+    categoryId = "DIC_kwDOP8wdYM4C3N8C"
+    mapping = "pathname"
+    strict = "0"
+    reactionsEnabled = "1"
+    emitMetadata = "0"
+    inputPosition = "bottom"
+    theme = "gruvbox_light"
+    lang = "en"
+
 [menu]
   [[menu.main]]
     identifier = "cv"

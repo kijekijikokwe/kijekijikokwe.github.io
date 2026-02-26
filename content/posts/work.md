@@ -2,6 +2,7 @@
 title: "Current Work"
 date: 2026-02-19T16:55:59-04:00
 draft: false
+comments: false
 ---
 
 I am currently In-House Counsel for Temiskaming Native Women's Support Group (aka [Keepers of the Circle](https://www.keepersofthecircle.com)), their divisions (such as [Mino M'shki-ki Indigenous Health Team](https://minomshkiki.ca)), and subsidiary companies.
