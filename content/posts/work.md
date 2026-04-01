@@ -7,7 +7,7 @@ comments: false
 
 I am currently In-House Counsel for Temiskaming Native Women's Support Group (aka [Keepers of the Circle](https://www.keepersofthecircle.com)), their divisions (such as [Mino M'shki-ki Indigenous Health Team](https://minomshkiki.ca)), and subsidiary companies.
 
-I apportion my spare time in dedication to the following projects and causes: ...
+I also dedicate my time to the following projects and causes:
 <!--more-->
 1. Chair, Métis Nation of Ontario Two-Spirit Council (Métis Nation of Ontario)
 2. Métis Nation of Ontario Representative, The Northern College Indigenous Council on Education, (NCICE)
