@@ -1,6 +1,6 @@
 ---
 title: "About Char"
-date: 2026-02-20T16:55:59-04:00
+date: 2026-10-07T10:35:59-04:00
 draft: false
 comments: false
 ---
