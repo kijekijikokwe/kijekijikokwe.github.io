@@ -1,6 +1,6 @@
 ---
 title: "Seven Generations is Not a Test"
-date: 2026-19-07T10:00:00-04:00
+date: 2026-10-07T10:00:00-04:00
 draft: false
 tags: [Métis, identity, status, Indian Act, Métis Nation of Ontario, Ontario, history, Aboriginal law]  
 
