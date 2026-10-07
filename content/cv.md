@@ -115,7 +115,9 @@ Acton, A.; Allen, A. D.; Antunes, L. M.; Fedorov, A. V.; Najafian, K.; Tidwell, 
 Batey, R. A.; Powell, D. A.; Acton, A.; Lough, A. J. Dysprosium(III) catalyzed formation of hexahydrofuro[3,2-c]quinolines via 2:1 coupling of dihydrofuran with substituted anilines. *Tetrahedron Letters.* **2001** *42* (45), 7935-7939. [DOI 10.1016/S0040-4039(01)01726-9](https://doi.org/10.1016/S0040-4039(01)01726-9)
 
 # Interviews and Presentations
-"Creating Safer Spaces for Two-Spirit Clients," Metis Nation of Ontario Community Wellness Branch Symposium, Blue Mountains Resort (September 25, 2025)
+"Radical Transparency and Two-Spirit Clients," Métis Nation of Ontario Community Wellness Branch Symposium, Ottawa (September 17, 2026)
+
+"Creating Safer Spaces for Two-Spirit Clients," Métis Nation of Ontario Community Wellness Branch Symposium, Blue Mountains Resort (September 25, 2025)
 
 "Two-Spirit / Deu Zèspri Working Group," Guest Speaker, Métis Nation of Ontario 2SLGBTQIA+ Climate Change Forum, online (October 21, 2023)
 
